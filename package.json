@@ -1,0 +1,19 @@
+{
+  "name": "game-multiplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KelCarmo/game-multiplayer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KelCarmo/game-multiplayer/issues"
+  },
+  "homepage": "https://github.com/KelCarmo/game-multiplayer#readme"
+}
